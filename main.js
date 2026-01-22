@@ -51,3 +51,5 @@ const zenPhrases = [
 ];
 
 const randomPhrase = arr => arr[Math.floor(Math.random() * arr.length)];
+
+console.log(randomPhrase(zenPhrases));
