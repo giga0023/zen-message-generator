@@ -1,6 +1,7 @@
 # Zen Message Generator
 
 **Descrizione**
+
 Questo piccolo progetto in Node.js stampa una frase zen casuale in console ogni volta che viene eseguito. È pensato come esercizio per imparare a lavorare con array, funzioni e Git, con la struttura pronta per essere ampliata in futuro.
 
 **Funzionalità**
