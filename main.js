@@ -49,3 +49,5 @@ const zenPhrases = [
   "La quiete non dipende da ciò che accade.",
   "Essere è già abbastanza."
 ];
+
+const randomPhrase = arr => arr[Math.floor(Math.random() * arr.length)];
