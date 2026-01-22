@@ -1,9 +1,3 @@
-## Zen Message Generator
-
-Perfetto Giga, allora ragioniamo su un README chiaro, pulito e professionale, adatto a un progetto piccolo ma completo come il tuo. Ti propongo una struttura concisa ma efficace:
-
----
-
 # Zen Message Generator
 
 **Descrizione**
